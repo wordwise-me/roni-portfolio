@@ -15,6 +15,7 @@ I build AI-powered automation systems that replace manual work with measurable r
 |---------|--------|-------|
 | [GMB Content Creator Agent](projects/gmb-content-agent.md) | Saves **90+ hours/month**, manages **80+ profiles** | n8n · OpenRouter · Airtable |
 | [Location Pages Writer](projects/location-pages-writer.md) | Saved **600+ hours** of dev & writer time | n8n · Claude · WordPress |
+| [LinkedIn Content Generator](projects/linkedin-content-generator.md) | Voice-matched thought leadership **at scale** | n8n · OpenRouter · Airtable · RSS |
 
 *Additional client projects under NDA — happy to discuss approach and results in conversation.*
 
