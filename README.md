@@ -11,11 +11,14 @@ I build AI-powered automation systems that replace manual work with measurable r
 
 ## Featured Projects
 
-| Project | Impact | Stack |
-|---------|--------|-------|
-| [GMB Content Creator Agent](projects/gmb-content-agent.md) | Saves **90+ hours/month**, manages **80+ profiles** | n8n · OpenRouter · Airtable |
-| [Location Pages Writer](projects/location-pages-writer.md) | Saved **600+ hours** of dev & writer time | n8n · Claude · WordPress |
-| [LinkedIn Content Generator](projects/linkedin-content-generator.md) | Voice-matched thought leadership **at scale** | n8n · OpenRouter · Airtable · RSS |
+| Project | What it is | Stack |
+|---------|------------|-------|
+| [Claude Code Multi-Team Agency OS](projects/claude-code-agency-os.md) | Six-team AI workforce with 30+ slash commands, sub-agents, hooks, and shared memory | Claude Code · Anthropic API · MCP · sub-agents · hooks |
+| [Show Me The Bids](projects/show-me-the-bids.md) | Two-sided marketplace for home renovation bids, full lifecycle through Claude Code (open beta) | React · TypeScript · Express 5 · PostgreSQL · Stripe · OpenAI |
+| [Job Hunt Operating System](projects/job-hunt-os.md) | Personal job-hunt pipeline: discovery, scoring, tailoring, Notion writeback | Claude Code · Python · Notion API · Playwright · Firecrawl |
+| [GMB Content Creator Agent](projects/gmb-content-agent.md) | Autonomous AI agent that researches, writes, and schedules GBP posts at scale | n8n · OpenRouter · Airtable |
+| [Location Pages Writer](projects/location-pages-writer.md) | Multi-agent system that researches and publishes 600+ SEO location pages | n8n · Claude · WordPress |
+| [LinkedIn Content Generator](projects/linkedin-content-generator.md) | Voice-matched thought leadership content engine, onboarding-call to monthly posts | n8n · OpenRouter · Airtable · RSS |
 
 *Additional client projects under NDA — happy to discuss approach and results in conversation.*
 
@@ -23,9 +26,11 @@ I build AI-powered automation systems that replace manual work with measurable r
 
 ## What I Work With
 
-**Automation & AI:** n8n, OpenRouter, Claude (Anthropic), Claude Code, Firecrawl, Crawl4AI, Perplexity AI
+**Daily driver.** Claude Code (Opus 4.7, Sonnet 4.6, Haiku 4.5), MCP server architecture, sub-agents, skills, hooks, plugins, file-glob auto-loading rules, manager playbook patterns, Anthropic API direct usage
+**Automation & AI:** n8n, OpenRouter, Anthropic SDK, Firecrawl, Crawl4AI, Perplexity AI, OpenAI (GPT-4o, DALL-E 3)
+**Full-stack (directed via Claude Code):** Next.js 15, React 19, TypeScript, Express 5, PostgreSQL, Stripe, Passport.js, Google Cloud Storage
+**Python & data:** Notion API, Playwright, agentic pipelines, deterministic filter and scoring systems
 **Outbound & CRM:** Apollo, Instantly, Airtable, ClickUp
-**Web & Dev:** WordPress, Elementor, GitHub, Replit, VS Code
 **Content & SEO:** Keyword Research, On-Page SEO, Content Strategy, Long-Form Writing
 
 ---
